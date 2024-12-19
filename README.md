@@ -13,3 +13,5 @@ my main contribution to this project was with the following models/Controllers
 - Reject VolunteerApplication
 - Close Training session
 - get applications for an event
+- linking the tainer with training
+- linking the volunteer with training
